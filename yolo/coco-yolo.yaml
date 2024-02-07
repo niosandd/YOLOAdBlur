@@ -1,0 +1,7 @@
+path: D:\DataScience\Work\advertising_blurring\dataset\output
+train: ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']
+val: ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']
+test:
+
+names:
+  0: pattern
